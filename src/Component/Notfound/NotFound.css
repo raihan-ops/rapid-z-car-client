@@ -1,0 +1,12 @@
+.cm-body{
+    height: 85vh;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.notfound{
+  height: 150px;
+  font-size:120px;
+  color: rgb(197, 192, 192);
+}

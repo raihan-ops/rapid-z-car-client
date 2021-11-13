@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Aston Martin",
+        "category": "BABY VALKYRIE",
+        "details": "Aston Martin Lagonda is a British independent manufacturer of luxury sports cars and grand tourers. Its predecessor was founded in 1913 by Lionel Martin and Robert Bamford.",
+        "price": "700000",
+        "review": "5",
+        "image": "https://cdn.carbuzz.com/gallery-images/840x560/568000/500/568528.jpg"
+    },
+    {
+        "name": " Audi",
+        "category": "SPORTS CAR",
+        "details": "Audi AG is a German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria, Germany. As a subsidiary of its parent company, the Volkswagen Group, Audi produces vehicles in nine production facilities worldwide",
+        "price": "600000",
+        "review": "5",
+        "image": "https://img3.wallspic.com/previews/1/9/9/7/5/157991/157991-audi_r8_spyder-cars-audi-volkswagen_group-audi_sport_gmbh-x750.jpg"
+    },
+    {
+        "name": "BMW",
+        "category": "CONVERTIBLE",
+        "details": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany.",
+        "price": "800000",
+        "review": "4",
+        "image": "https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=22ZB&client=byo&paint=P0300&fabric=FK8SW&sa=S01P2,S0248,S02NH,S02TB,S02VF,S0302,S0319,S0322,S0387,S03DZ,S0430,S0431,S0459,S0465,S0493,S0494,S04AW,S04KK,S0534,S0544,S05AC,S0676,S06AC,S06AK,S06C4,S06U3,S0710,S0711,S0715,S0760&quality=hight&bkgnd=transparent&resp=png&angle=60"
+    },
+    {
+        "name": "Ferrari",
+        "category": "SPORTS CAR",
+        "details": "Ferrari S.p.A. is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1939 out of the Alfa Romeo race division as Auto Avio Costruzioni.",
+        "price": "1000000",
+        "review": "3",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-ferrari-f8-spyder-103-1593551679.jpg?resize=480:*"
+    },
+    {
+        "name": "Ford",
+        "category": "CONVERTIBLE",
+        "details": "Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and luxury cars under its Lincoln luxury brand.",
+        "price": "5000000",
+        "review": "3",
+        "image": "https://parkers-images.bauersecure.com/Scale/pagefiles/197453/cut-out/450x300/focus_cc.jpg"
+    },
+    {
+        "name": "Honda",
+        "category": "HATCHBACK",
+        "details": "Honda Motor Company, Ltd. is a Japanese public multinational conglomerate manufacturer of automobiles, motorcycles, and power equipment, headquartered in Minato, Tokyo, Japan",
+        "price": "6000000",
+        "review": "3",
+        "image": "https://images.hgmsites.net/hug/2022-honda-civic-sdn_100796933_h.jpg"
+    },
+    {
+        "name": "Mercedes",
+        "category": "SPORTS CAR",
+        "details": "Mercedes-Benz, commonly referred to as Mercedes, is a German luxury automotive marque. Mercedes-Benz and subsidiary Mercedes-Benz AG – of Daimler AG – are headquartered in Stuttgart, Baden-Württemberg, Germany. Mercedes-Benz produces consumer luxury vehicles and commercial vehicles.",
+        "price": "10000000",
+        "review": "5",
+        "image": "https://cars.usnews.com/static/images/Auto/izmo/i64148536/2018_mercedes_amg_gt_angularfront.jpg"
+    },
+    {
+        "name": "Nissan",
+        "category": "SPORTS CAR",
+        "details": "Nissan Motor Co., Ltd. is a Japanese multinational automobile manufacturer headquartered in Nishi-ku, Yokohama, Japan. The company sells its vehicles under the Nissan, Infiniti, and Datsun brands, with in-house performance tuning products labelled Nismo.",
+        "price": "6000000",
+        "review": "5",
+        "image": "https://www.ccarprice.com/products/Nissan-370Z-Sport-Auto-2019.png"
+    },
+    {
+        "name": "Toyota",
+        "category": "COUPE",
+        "details": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on August 28, 1937. Toyota is one of the largest automobile manufacturers in the world, producing about 10 million vehicles per year.",
+        "price": "7000000",
+        "review": "4",
+        "image": "https://s.aolcdn.com/commerce/autodata/images/CAC90TOC291B121001.jpg"
+    },
+    {
+        "name": "Mitsubishi",
+        "category": "COUPE",
+        "details": "Mitsubishi Motors Corporation is a Japanese multinational automotive manufacturer headquartered in Minato, Tokyo, Japan. In 2011, Mitsubishi Motors was the sixth-largest Japanese automaker and the 19th-largest worldwide by production.",
+        "price": "1000000",
+        "review": "3",
+        "image": "https://img.drivemag.net/media/default/0001/77/Next-generation-Mitsubishi-Eclipse-renderings-0-9280-default-large.jpeg"
+    }
+]

@@ -1,0 +1,8 @@
+.bg{
+    color: white;
+    position: fixed;
+  
+    bottom: 0px;
+    background-color: rgb(21, 24, 24);
+    font-size: 800;
+}
