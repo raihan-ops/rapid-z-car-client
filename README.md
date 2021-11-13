@@ -1,7 +1,7 @@
-# website name : Car Shop 
+# website name : Rapid Z-CAR
 
 # description : 
-Car Shop mainly based on car Sell. lots of car, and focused on real user.
+Rapid Z-CAR mainly based on car Sell. lots of car, and focused on real user.
  
  # web site Link :
 https://car-shop-authorization.web.app/home
