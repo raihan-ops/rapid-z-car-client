@@ -12,6 +12,12 @@ https://car-shop-authorization.web.app/home
  
  # 3. Backend Server is Node express server.
  
- # 4 . Using Hosting site is herukoo.
+ # 4 . Using Hosting site is herukoo (backend).
  
  # 5. Using Css framework react Material Ui.
+ 
+ # 6. Firebase Hosting (Client).
+ 
+ # 7. FireBase Authentication.
+ 
+ 
